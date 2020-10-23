@@ -1,8 +1,8 @@
 function findLanguage(input1, input2, input3, input4, input5){
   let score = input1 + input2 + input3 + input4 + input5;
 
-  if (score ) {
-
+  if (score <= 5) {
+    
   } else if (score) {
 
   } else if (score) {
@@ -20,5 +20,8 @@ $(document).ready(function(){
     const userInput3 = parseInt($("input:radio[name=question3]:checked").val());
     const userInput4 = parseInt($("input:radio[name=question4]:checked").val());
     const userInput5 = parseInt($("input:radio[name=question5]:checked").val());
+    $(".results").hide();
+
+    findLanguage(input1, input2, input3, input4, input5);
   });
 });
