@@ -11,3 +11,20 @@ h4 {
 #results div{
   display: none;
 }
+
+h2 {
+  text-align: center;
+  margin: 50px;
+}
+
+.line {
+  border-top: 2px solid #BFC9CA;
+  margin-top: 40px;
+  margin-left: 130px;
+  margin-right: 130px;
+  padding-bottom: 5%;
+}
+
+button {
+  position: absolute;
+}
