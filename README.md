@@ -10,6 +10,9 @@ _This app is going to suggest a language based on you answers._
 
 ## Setup/Installation Requirements
 
+##### Software Requirements
+1. Internet browser
+2. 
 * _Go to GitHub_
 * _Clone repository_
 * _In terminal use Git Clone_
