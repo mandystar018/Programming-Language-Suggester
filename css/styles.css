@@ -1,4 +1,9 @@
 img {
   width: 500px;
   height: 340px;
+  border-radius: 20%;
+}
+
+h4 {
+  text-align: center;
 }
