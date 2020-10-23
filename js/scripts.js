@@ -7,7 +7,6 @@ $(document).ready(function(){
     const userInput3 = parseInt($("input:radio[name=question3]:checked").val());
     const userInput4 = parseInt($("input:radio[name=question4]:checked").val());
     const userInput5 = parseInt($("input:radio[name=question5]:checked").val());
-    // let score = userInput1 + userInput2 + userInput3 + userInput4 + userInput5;
     $(".results div").hide();
 
     function findLanguage(input1, input2, input3, input4, input5) {
@@ -15,7 +14,11 @@ $(document).ready(function(){
       if(score <= 5) {
         $("#javaScript").show();
       } else if (score <= 10) {
-        $(#)
+        $("#c-sharp").show();
+      } else if (score <= 15) {
+        $("#ruby").show();
+      } else {
+        $("#python").show();
       }
       $("#userName").text(`${userName} your score was ${score}!.`)
     }
