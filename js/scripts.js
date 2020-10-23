@@ -14,7 +14,9 @@ $(document).ready(function(){
       let score = input1 + input2 + input3 + input4 + input5;
       if(score <= 5) {
         $("#javaScript").show();
-      } else if ()
+      } else if (score <= 10) {
+        $(#)
+      }
       $("#userName").text(`${userName} your score was ${score}!.`)
     }
     findLanguage(userInput1, userInput2, userInput3, userInput4, userInput5);
