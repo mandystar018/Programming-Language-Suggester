@@ -1,12 +1,12 @@
-# _{Application Name}_
+# _Programing Language Suggester_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _This app is going to suggest a language, October 23, 2020._
 
 #### By _**Amanda Otero**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This app is going to suggest a language based on you answers._
 
 ## Setup/Installation Requirements
 
