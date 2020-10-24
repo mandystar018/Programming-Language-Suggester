@@ -6,21 +6,24 @@
 
 ## Description
 
-_This app is going to suggest a language based on you answers._
+_This app is going to suggest a language based on your personality. This program was created with the purpose to have fun and to show my understanding of jQuery, JavaScript, and Branches._
 
 ## Setup/Installation Requirements
 
-* _Go to GitHub_
-* _Clone repository_
-* _In terminal use Git Clone_
-* _To view the project open index HTML on you favorite browser_
-* _To edit open you favorite text editor_
+#### View Online
+* _To view my project visit https://mandystar018.github.io/Programming-Language-Suggester/_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+#### Open Locally
+1. _Go to my GitHub mandystar018_
+2. _Copy this to clone repository right here: https://github.com/mandystar018/Programming-Language-Suggester.git_
+3. _Open your terminal and use the command git clone and copy the hyperlink above,_
+3. _Alternately, click download zip and open the file in your computer._
+4. _Open the index.html file to view my project in a browser._
+5. _To edit my project you can open it in your favorite text editor._
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_No known bugs_
 
 ## Support and contact details
 
