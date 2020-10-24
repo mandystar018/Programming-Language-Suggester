@@ -1,3 +1,11 @@
+h3, h5, label, p {
+  font-family: 'Quicksand', sans-serif;
+}
+
+#firstName{
+  text-align: center;
+}
+
 img {
   width: 500px;
   height: 340px;
@@ -5,8 +13,10 @@ img {
   margin: 15px;
 }
 
-h4 {
+h1, h4, a{
   text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  
 }
 
 #results div{
@@ -16,6 +26,7 @@ h4 {
 h2 {
   text-align: center;
   margin: 50px;
+  font-family: 'Quicksand', sans-serif;
 }
 
 .line {

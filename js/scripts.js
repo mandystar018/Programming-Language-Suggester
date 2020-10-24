@@ -17,7 +17,7 @@ $(document).ready(function(){
         $("#c-sharp").show();
         $("#ruby, #python, #javaScript").hide()
       } else if (score <= 15) {
-        $("#ruby").show();
+        $("#ruby").fadeIn();
         $("#python, #javaScript, #c-sharp").hide();
       } else {
         $("#python").show();
